@@ -120,9 +120,3 @@ No pretende reemplazar a herramientas como `wget` o `curl`, sino demostrar domin
 
 Alejandro HZ
 
-```
-
-
-
-Buen movimiento separar este proyecto 👌
-```
