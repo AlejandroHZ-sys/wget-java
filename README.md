@@ -103,20 +103,6 @@ Este archivo permite navegar localmente por todas las páginas descargadas.
 
 ---
 
-## Propósito del proyecto
 
-Este proyecto fue desarrollado con fines **académicos y formativos**, con el objetivo de comprender en profundidad:
 
-* El funcionamiento real de HTTP/HTTPS
-* La comunicación cliente-servidor a bajo nivel
-* La descarga y reconstrucción de sitios web
-* La programación concurrente en Java
-
-No pretende reemplazar a herramientas como `wget` o `curl`, sino demostrar dominio técnico del stack de red.
-
----
-
-## Autor
-
-Alejandro HZ
 
